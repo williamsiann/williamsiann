@@ -19,7 +19,10 @@ Como Profe en el club de padel, mi enfoque es aprender siempre y ser curioso. Pa
 
 ¡Me encanta motivar en el club y comunicarme de manera clara para crear un ambiente genial! 💬💪
 
-Estas experiencias no solo mejoraron mi liderazgo y enseñanza, sino que también me volvieron más amigable y siempre listo para la buena onda. 😊🚀  
+Estas experiencias no solo mejoraron mi liderazgo y enseñanza, sino que también me volvieron más amigable y siempre listo para la buena onda. 😊🚀
+
+Datos de Contacto: 
+Email: ianmiltonwilliams777@gmail.com  
   
 
 <br/>  
