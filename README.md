@@ -83,7 +83,7 @@ Estas experiencias no solo mejoraron mi liderazgo y enseñanza, sino que tambié
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamsiann&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamsiann&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
