@@ -3,7 +3,7 @@
 </div>  
   
 
-##### <div align="center">Soy Ian Williams. Comencé en el mundo del desarrollo hace 2 años, enfocándome en front-end, y recientemente me gradué como desarrollador full stack. Actualmente, sigo informándome y aprendiendo tecnologías como TypeScript, Angular y Vue.🚀</div>  
+##### <div align="center">Soy Ian Williams. Comencé en el mundo del desarrollo hace 2 años, enfocándome en front-end, y recientemente me gradué como desarrollador full stack. Actualmente, sigo informándome y aprendiendo tecnologías como TypeScript y Angular.🚀</div>  
   
 
 - Soy apasionado por el Front End y cuento con conocimientos de diseño y UX/UI.👾   
