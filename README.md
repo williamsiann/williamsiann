@@ -3,12 +3,11 @@
 </div>  
   
 
-##### <div align="center">Soy Ian Williams. Comencé en el mundo del desarrollo hace 2 años, enfocándome en front-end, y recientemente me gradué como desarrollador full stack. Actualmente, sigo informándome y aprendiendo tecnologías como TypeScript y Angular.🚀</div>  
-  
+##### <div align="center">Mi nombre es Ian Williams y tengo dos años de experiencia en el desarrollo de software, inicialmente centrado en el front-end. Recientemente, me gradué como desarrollador full stack, lo que ha ampliado mi perspectiva y habilidades en el desarrollo web. Actualmente, estoy profundizando mis conocimientos en tecnologías como TypeScript y Angular.
 
-- Soy apasionado por el Front End y cuento con conocimientos de diseño y UX/UI.👾   
+Tengo una gran pasión por el desarrollo front-end y cuento con un sólido entendimiento del diseño y UX/UI. Disfruto creando interfaces de usuario intuitivas y atractivas, y siempre busco formas de mejorar la experiencia del usuario a través de un diseño cuidadoso y funcional.
 
-- Me encanta aprender nuevos idiomas y seguir ampliando mis conocimientos🤓  
+Además, me encanta aprender nuevos idiomas y siempre estoy buscando oportunidades para ampliar mis conocimientos y habilidades en diversas áreas. Estoy comprometido con el aprendizaje continuo y la mejora constante, y me entusiasma explorar nuevas tecnologías y tendencias en el mundo del desarrollo web.
   
 
 <br/>  
