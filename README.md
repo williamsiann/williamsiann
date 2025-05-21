@@ -1,5 +1,5 @@
 <div align="center">
-<img src="file:///C:/Users/ianmi/OneDrive/Documentos/cv/Imagen%20de%20WhatsApp%202025-04-15%20a%20las%2009.58.30_2664a0ef.jpg" align="center" height="150" width="150" />
+<img src="https://imgur.com/a/2yrbhQn" align="center" height="150" width="150" />
 </div>  
   
 
